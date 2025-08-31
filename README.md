@@ -122,6 +122,8 @@ Yeni bir laptop için fiyat tahmini adımları:
 TAHMİNİ FİYAT: 3182.13 €
 ==================================================
 
+---
+
 ## Kullanım
 
 1. laptop_price.csv dosyasını proje dizinine koyun
@@ -129,6 +131,8 @@ TAHMİNİ FİYAT: 3182.13 €
 2. Kodları çalıştırın, sonuçlar ve tahminler otomatik olarak üretilecektir
 
 3. Yeni laptop tahmini yapmak için new_laptop DataFrame’ini güncelleyebilirsiniz.
+
+---
 
 ## Özet
 
@@ -141,3 +145,4 @@ Bu proje sayesinde:
 - Birden fazla regresyon modeli ile fiyat tahmini gerçekleştirilmiştir
 
 - Random Forest ile başarılı tahmin sonuçları elde edilmiştir
+
